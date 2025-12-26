@@ -16,7 +16,7 @@ public class max_VectorApp{
 		while(i.hasNext()){
 			Object obj=i.next();
 			if((int)obj>max){
-				max=obj;
+				max=(int)obj;
 			}
 		}
 		
