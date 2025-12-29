@@ -10,7 +10,7 @@ public class get_mapAPP{
 		map.put(4,50);
 		map.put(5,40);
 		
-		Object obj=map.get(7);
+		Object obj=map.get(2);
 		if(obj!=null){
 			System.out.println("VALUE iS: "+obj);
 		}else{
