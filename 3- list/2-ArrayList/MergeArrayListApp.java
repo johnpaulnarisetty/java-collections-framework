@@ -11,8 +11,8 @@ import java.util.*;
 public class MergeArrayListApp{
 	public static void main(String x[]){
 		ArrayList al=new ArrayList();
-		ArrayList al2=new ArrayList();
-		ArrayList al3=new ArrayList();
+		
+		
 		
 		al.add(10);
 		al.add(20);
@@ -20,16 +20,19 @@ public class MergeArrayListApp{
 		al.add(40);
 		al.add(50);
 		
+		ArrayList al2=new ArrayList();
 		al2.add(20);
 		al2.add(60);
 		al2.add(10);
 		al2.add(70);
 		al2.add(80);
 		
+		ArrayList al3=new ArrayList();
+		
 		Iterator i=al.iterator();
 		while(i.hasNext()){
 			Object obj=i.next();
-			if(al.contains(obj)){
+			if(!(al.contains(obj))){
 				al3.add(obj);
 			}
 		}
