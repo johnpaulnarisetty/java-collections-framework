@@ -8,7 +8,7 @@ Vector methods like add(), get(), set()
 
 import java.util.*;
 public class ArrayListToVector{
-	public static void main(String x[])
+	public static void main(String x[]){
 		ArrayList al=new ArrayList();
 		
 		al.add(50);
