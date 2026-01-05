@@ -33,7 +33,7 @@ public class LongestSubArray{
 			}
 		}
 		
-		System.out.printf("Longest Subarray With Sum%d ≤ K%d",sum,maxLen);
+		System.out.printf("Longest Subarray With Sum=%d ≤ K=%d",sum,maxLen);
 		
 	}
 }
